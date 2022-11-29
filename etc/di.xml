@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="Amasty\ShopbyBrand\Model\Brand\BrandListDataProvider">
+        <plugin name="storefront_fix_amasty_shop_by_brands_data_provider"
+                type="StorefrontX\ShopByBrandExtended\Plugin\BrandListDataProviderPlugin"/>
+    </type>
+
+    <type name="StorefrontX\ShopByBrandGraphQlExtended\Model\Resolver\GetAmBrandById">
+        <plugin name="storefrontx_fix_amasty_shop_by_brands_prepare_result"
+                type="StorefrontX\ShopByBrandExtended\Plugin\PrepareResultPlugin"/>
+    </type>
+</config>
+
