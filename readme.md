@@ -1,3 +1,8 @@
+# Abandoned !!!
+
+Please use https://git.magexo.cz/magexo-modules-v2/module-shop-by-brand-graph-ql-extended with version of 2.45.x or highter
+magexo/module-shop-by-brand-graph-ql-extended:^2.45
+
 # ShopByBrand Extended
 
 Module for Magento 2

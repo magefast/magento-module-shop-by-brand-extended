@@ -1,6 +1,6 @@
 {
     "name": "storefront-x/magento-module-shop-by-brand-extended",
-    "description": "Magento 2 module - Fix Amasty Shop by Brand NON GQL extensions, like urls format",
+    "description": "Abandoned !!! Magento 2 module - Fix Amasty Shop by Brand NON GQL extensions, like urls format",
     "type": "magento2-module",
     "require": {
         "php": ">=8.1",
@@ -19,5 +19,6 @@
         "psr-4": {
             "StorefrontX\\ShopByBrandExtended\\": ""
         }
-    }
+    },
+    "abandoned": "magexo/module-shop-by-brand-graph-ql-extended:^2.45"
 }
