@@ -1,6 +1,6 @@
 # Abandoned !!!
 
-Please use https://git.magexo.cz/magexo-modules-v2/module-shop-by-brand-graph-ql-extended with version of 2.45.x or highter
+Please use https://git.magexo.cz/magexo-modules-v2/module-shop-by-brand-graph-ql-extended with version of 2.45.x or higher
 magexo/module-shop-by-brand-graph-ql-extended:^2.45
 
 # ShopByBrand Extended
